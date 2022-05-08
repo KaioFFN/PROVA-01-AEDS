@@ -15,11 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\AULA-PILHA-AEDS\AULA-PILHA-AEDS\pilhas.c">
-      <Filter>Arquivos de Origem</Filter>
-    </ClCompile>
     <ClCompile Include="main.c">
       <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="pilhas.c">
+      <Filter>Arquivos de Recurso</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
