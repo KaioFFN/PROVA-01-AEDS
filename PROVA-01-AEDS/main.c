@@ -84,5 +84,8 @@ int main(int argc, char** argv)
 	pilha_vet_libera(vagaoA);
 	pilha_vet_libera(palavraescolhida);
 
+	// NOME DOS ESTUDANTES QUE FIZERAM ESSA PROVA 
+	// BERNARDO ALVIN SOUZA 2021951426
+	// KAIO FERNANDES FERREIRA NUNES 2021951280
 	return EXIT_SUCCESS;
 }
